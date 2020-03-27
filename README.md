@@ -3,4 +3,4 @@ Calendar app for androids.
 
 Youtube link: https://youtu.be/Uu0yUnSwygE
 
-![calender](https://user-images.githubusercontent.com/57301792/77685725-e5067b80-6fc1-11ea-8b95-3a8524122674.jpg)
+![calendar](https://user-images.githubusercontent.com/57301792/77712031-9e804380-6ff8-11ea-8efb-a1d6dc9a1457.jpg)
