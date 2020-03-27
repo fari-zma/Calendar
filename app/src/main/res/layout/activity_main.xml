@@ -39,7 +39,7 @@
             android:layout_gravity="center"
             android:textAlignment="center"
             android:singleLine="true"
-            android:hint="(dd/mm/yyy)" />
+            android:hint="(dd/mm/yyyy)" />
 
         <ImageButton
             android:layout_width="wrap_content"
